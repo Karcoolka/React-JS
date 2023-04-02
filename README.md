@@ -1,4 +1,2 @@
 # React-JS
-Exercises and little apps made in React.js
-
-#Repository for React Apps
+Exercises, projects and little apps made in ReactJS
