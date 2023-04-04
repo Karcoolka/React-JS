@@ -1,2 +1,2 @@
 # React-JS
-Exercises, projects and little apps made in ReactJS
+Front end projects and little apps made in ReactJS.
